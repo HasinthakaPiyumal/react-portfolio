@@ -16,12 +16,12 @@ const Footer = () => {
                 <li><a href="#contact">Contact</a></li>
             </ul>
             <div className="footer__socials">
-            <a href="https://www.linkedin.com/in/hasinthaka-piyumal-5757741ba/" target="_blank"><BsLinkedin/></a>
+            <a href="https://www.linkedin.com/in/hasinthaka-piyumal/" target="_blank"><BsLinkedin/></a>
             <a href="https://github.com/HasinthakaPiyumal" target="_blank"><BsGithub/></a>
             <a href="http://instergram.com" target="_blank"><BsInstagram/></a>
             </div>
             <div className="footer__copyright">
-                <small>&copy; EGATOR Tutorials. All Right Reserved.</small>
+                <small>Coded By HASINTHAKA PIYMAL | &copy; EGATOR Tutorials. All Right Reserved.</small>
             </div>
         </footer>
     )
